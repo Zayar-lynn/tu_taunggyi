@@ -1,0 +1,9 @@
+admin
+====
+admin@gmail.com
+12345678
+
+major
+====
+e.g. major@gmail.com
+      12345678
