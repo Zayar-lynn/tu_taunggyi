@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Sep 17, 2019 at 11:47 AM
+-- Generation Time: Sep 18, 2019 at 10:08 AM
 -- Server version: 10.1.34-MariaDB
 -- PHP Version: 7.2.8
 
@@ -430,7 +430,8 @@ CREATE TABLE `ourpartners` (
 INSERT INTO `ourpartners` (`id`, `photo`, `name`, `created_at`, `updated_at`) VALUES
 (1, '5d80a856e7c5b_campus-img_04.jpg', 'First Partner Company', '2019-09-17 02:21:36', '2019-09-17 03:03:10'),
 (3, '5d80a90cc4a41_campus-img_05.jpg', 'Second Partner Company', '2019-09-17 03:06:12', '2019-09-17 03:06:12'),
-(4, '5d80a920a09d5_campus-img_06.jpg', 'Third Partner Company', '2019-09-17 03:06:32', '2019-09-17 03:06:32');
+(4, '5d80a920a09d5_campus-img_06.jpg', 'Third Partner Company', '2019-09-17 03:06:32', '2019-09-17 03:06:32'),
+(5, '5d81e5518d41a_960281.jpg', 'testing company', '2019-09-18 01:35:37', '2019-09-18 01:35:37');
 
 -- --------------------------------------------------------
 
@@ -749,7 +750,7 @@ ALTER TABLE `migrations`
 -- AUTO_INCREMENT for table `ourpartners`
 --
 ALTER TABLE `ourpartners`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6;
 
 --
 -- AUTO_INCREMENT for table `researches`

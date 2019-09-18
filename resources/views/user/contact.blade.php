@@ -81,7 +81,7 @@
 </div>
 </div>
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d59686.112699760255!2d96.95571827411455!3d20.775826400653635!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30ce85fee8a71a2b%3A0x1bd4d356785e4943!2z4YCU4YCK4YC64YC44YCV4YCK4YCs4YCQ4YCA4YC54YCA4YCe4YCt4YCv4YCc4YC6ICjhgJDhgLHhgKzhgIThgLrhgIDhgLzhgK7hgLgp!5e0!3m2!1smy!2smm!4v1552624983067" width="1500" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d59686.112699760255!2d96.95571827411455!3d20.775826400653635!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30ce85fee8a71a2b%3A0x1bd4d356785e4943!2z4YCU4YCK4YC64YC44YCV4YCK4YCs4YCQ4YCA4YC54YCA4YCe4YCt4YCv4YCc4YC6ICjhgJDhgLHhgKzhgIThgLrhgIDhgLzhgK7hgLgp!5e0!3m2!1smy!2smm!4v1552624983067" width="100%" height="500" frameborder="0" style="border:0" allowfullscreen></iframe>
 </section>
 
 
